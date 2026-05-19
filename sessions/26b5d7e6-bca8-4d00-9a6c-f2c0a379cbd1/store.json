@@ -1,0 +1,25 @@
+{
+  "id": "26b5d7e6-bca8-4d00-9a6c-f2c0a379cbd1",
+  "name": "Git同步",
+  "status": "active",
+  "createdAt": "2026-05-19T15:27:31.555Z",
+  "updatedAt": "2026-05-19T15:27:31.555Z",
+  "agents": [
+    {
+      "id": "agent_270gm2ts",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-05-19T15:27:31.555Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_5b15p4jw",
+    "title": "Git同步",
+    "createdAt": "2026-05-19T15:27:31.555Z",
+    "file": "summary_5b15p4jw.md"
+  },
+  "lastMessageCount": 18
+}
