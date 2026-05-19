@@ -1,0 +1,25 @@
+{
+  "id": "5942b403-11ee-4e9e-ac52-b906502c7f1d",
+  "name": "记忆维护",
+  "status": "active",
+  "createdAt": "2026-05-19T15:35:55.076Z",
+  "updatedAt": "2026-05-19T15:35:55.076Z",
+  "agents": [
+    {
+      "id": "agent_seec0g68",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-05-19T15:35:55.076Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_uf8w3qa2",
+    "title": "记忆维护",
+    "createdAt": "2026-05-19T15:35:55.076Z",
+    "file": "summary_uf8w3qa2.md"
+  },
+  "lastMessageCount": 21
+}
