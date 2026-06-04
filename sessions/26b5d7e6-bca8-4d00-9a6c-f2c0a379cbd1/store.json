@@ -1,9 +1,9 @@
 {
   "id": "26b5d7e6-bca8-4d00-9a6c-f2c0a379cbd1",
-  "name": "Git自动同步",
+  "name": "Git 自动同步",
   "status": "active",
   "createdAt": "2026-05-19T15:27:31.555Z",
-  "updatedAt": "2026-06-02T14:54:23.310Z",
+  "updatedAt": "2026-06-04T04:23:16.846Z",
   "agents": [
     {
       "id": "agent_270gm2ts",
@@ -17,9 +17,9 @@
   ],
   "summary": {
     "id": "summary_5b15p4jw",
-    "title": "Git自动同步",
+    "title": "Git 自动同步",
     "createdAt": "2026-05-19T15:27:31.555Z",
     "file": "summary_5b15p4jw.md"
   },
-  "lastMessageCount": 14
+  "lastMessageCount": 16
 }
