@@ -18,4 +18,5 @@
 
 - 定期清理临时文件（.DS_Store, task-summary_*.md, git-sync-issue_*.md等），2026-06-02 清理了 git-sync 相关文件
 - memory/ 目录用于每日工作日志，MEMORY.md 用于长期记忆
-- [2026-06-02] 待办：将 self-improving/ 中的学习进度文件合并到对应的 memory/ 日期文件中，清理过期的临时文件
+- [2026-06-04] self-improving/ 仍含14个学习进度文件，尚未合并到 memory/；已清理 task-summary 临时文件
+- [2026-06-02] 待办：将 self-improving/ 中的学习进度文件合并到对应的 memory/ 日期文件中
