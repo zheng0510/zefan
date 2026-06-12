@@ -3,7 +3,7 @@
   "name": "Git自动同步",
   "status": "active",
   "createdAt": "2026-05-19T15:27:31.555Z",
-  "updatedAt": "2026-06-07T08:29:39.212Z",
+  "updatedAt": "2026-06-11T09:13:28.824Z",
   "agents": [
     {
       "id": "agent_270gm2ts",
@@ -21,5 +21,5 @@
     "createdAt": "2026-05-19T15:27:31.555Z",
     "file": "summary_5b15p4jw.md"
   },
-  "lastMessageCount": 14
+  "lastMessageCount": 6
 }
