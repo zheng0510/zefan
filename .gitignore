@@ -1,0 +1,6 @@
+output/
+.DS_Store
+.consolidate-state.json
+*.tmp
+task-summary_*.md
+git-sync-issue_*.md
