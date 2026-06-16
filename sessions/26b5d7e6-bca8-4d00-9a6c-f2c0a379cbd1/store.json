@@ -1,9 +1,9 @@
 {
   "id": "26b5d7e6-bca8-4d00-9a6c-f2c0a379cbd1",
-  "name": "Git自动同步",
+  "name": "Cron Git同步",
   "status": "active",
   "createdAt": "2026-05-19T15:27:31.555Z",
-  "updatedAt": "2026-06-11T09:13:28.824Z",
+  "updatedAt": "2026-06-16T15:00:04.754Z",
   "agents": [
     {
       "id": "agent_270gm2ts",
@@ -17,9 +17,9 @@
   ],
   "summary": {
     "id": "summary_5b15p4jw",
-    "title": "Git自动同步",
+    "title": "Cron Git同步",
     "createdAt": "2026-05-19T15:27:31.555Z",
     "file": "summary_5b15p4jw.md"
   },
-  "lastMessageCount": 6
+  "lastMessageCount": 16
 }
