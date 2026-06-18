@@ -20,3 +20,4 @@
 - memory/ 目录用于每日工作日志，MEMORY.md 用于长期记忆
 - [2026-06-12] 执行记忆维护：清理 git-sync-*.md 和 task-summary_*.md 临时文件；self-improving/ 有16个学习进度文件（含domains子目录），内容已足够陈旧可考虑归档或精简合并
 - 2026-06-15 更新，2026-06-16 检查后判断 MEMORY.md 内容已覆盖维护记录，未做额外更新
+- [2026-06-18] 执行记忆维护：清理 6 个过期的 git-sync/git_sync 临时文件；self-improving/ 内容稳定未变动
