@@ -22,3 +22,4 @@
 - 2026-06-15 更新，2026-06-16 检查后判断 MEMORY.md 内容已覆盖维护记录，未做额外更新
 - [2026-06-18] 执行记忆维护：清理 6 个过期的 git-sync/git_sync 临时文件；self-improving/ 内容稳定未变动
 - [2026-06-20] 执行记忆维护：工作区无多余临时文件，self-improving/ 目录 16 个文件已稳定一个多月，建议归档至 archive/
+- [2026-06-21] 执行记忆维护：清理 3 个临时文件（git-sync_*, memory-maintenance_*）；self-improving/ 目录内容仍稳定，持续建议归档
