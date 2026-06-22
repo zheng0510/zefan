@@ -21,5 +21,5 @@
 - [2026-06-12] 执行记忆维护：清理 git-sync-*.md 和 task-summary_*.md 临时文件；self-improving/ 有16个学习进度文件（含domains子目录），内容已足够陈旧可考虑归档或精简合并
 - 2026-06-15 更新，2026-06-16 检查后判断 MEMORY.md 内容已覆盖维护记录，未做额外更新
 - [2026-06-18] 执行记忆维护：清理 6 个过期的 git-sync/git_sync 临时文件；self-improving/ 内容稳定未变动
-- [2026-06-20] 执行记忆维护：工作区无多余临时文件，self-improving/ 目录 16 个文件已稳定一个多月，建议归档至 archive/
-- [2026-06-21] 执行记忆维护：清理 3 个临时文件（git-sync_*, memory-maintenance_*）；self-improving/ 目录内容仍稳定，持续建议归档
+- [2026-06-21] 执行记忆维护：清理 3 个临时文件（git-sync_2026-06-21-0221.md、git-sync_2026-06-21-1116.md、memory-maintenance_20260618-2217.md）；self-improving/ 目录 16 个文件已稳定超过一个月（自2026-05-19起），持续强烈建议归档至 archive/
+- [2026-06-22] 执行记忆维护：清理 4 个临时文件（git_auto_sync_*, git_sync_*）；self-improving/ 目录内容稳定，建议归档
