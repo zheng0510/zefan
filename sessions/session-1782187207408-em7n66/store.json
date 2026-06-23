@@ -1,0 +1,25 @@
+{
+  "id": "session-1782187207408-em7n66",
+  "name": "自我进化计划",
+  "status": "active",
+  "createdAt": "2026-06-23T04:05:36.627Z",
+  "updatedAt": "2026-06-23T05:32:58.207Z",
+  "agents": [
+    {
+      "id": "agent_zp117bzj",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-06-23T04:05:36.627Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_ps48pde5",
+    "title": "自我进化计划",
+    "createdAt": "2026-06-23T04:05:36.627Z",
+    "file": "summary_ps48pde5.md"
+  },
+  "lastMessageCount": 64
+}
