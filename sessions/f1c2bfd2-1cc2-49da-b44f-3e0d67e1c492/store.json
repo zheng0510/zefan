@@ -1,0 +1,25 @@
+{
+  "id": "f1c2bfd2-1cc2-49da-b44f-3e0d67e1c492",
+  "name": "记忆维护",
+  "status": "active",
+  "createdAt": "2026-06-24T07:13:19.872Z",
+  "updatedAt": "2026-06-24T07:13:19.872Z",
+  "agents": [
+    {
+      "id": "agent_gts894d1",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-06-24T07:13:19.872Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_kzsjnjtn",
+    "title": "记忆维护",
+    "createdAt": "2026-06-24T07:13:19.872Z",
+    "file": "summary_kzsjnjtn.md"
+  },
+  "lastMessageCount": 14
+}
