@@ -1,9 +1,9 @@
 {
   "id": "session-1782187207408-em7n66",
-  "name": "自我进化计划",
+  "name": "好的，继续训练。当前",
   "status": "active",
   "createdAt": "2026-06-23T04:05:36.627Z",
-  "updatedAt": "2026-06-23T05:32:58.207Z",
+  "updatedAt": "2026-06-25T05:12:39.779Z",
   "agents": [
     {
       "id": "agent_zp117bzj",
@@ -17,9 +17,9 @@
   ],
   "summary": {
     "id": "summary_ps48pde5",
-    "title": "自我进化计划",
+    "title": "好的，继续训练。当前",
     "createdAt": "2026-06-23T04:05:36.627Z",
     "file": "summary_ps48pde5.md"
   },
-  "lastMessageCount": 64
+  "lastMessageCount": 99
 }

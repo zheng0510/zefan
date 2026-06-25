@@ -1,0 +1,25 @@
+{
+  "id": "ebdc8d3a-f49c-4e06-b719-e6b0c4bcc7d5",
+  "name": "Git同步",
+  "status": "active",
+  "createdAt": "2026-06-24T10:13:54.150Z",
+  "updatedAt": "2026-06-24T10:13:54.150Z",
+  "agents": [
+    {
+      "id": "agent_r2vyki6j",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-06-24T10:13:54.150Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_63zi1h1b",
+    "title": "Git同步",
+    "createdAt": "2026-06-24T10:13:54.150Z",
+    "file": "summary_63zi1h1b.md"
+  },
+  "lastMessageCount": 6
+}
