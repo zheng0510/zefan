@@ -1,0 +1,25 @@
+{
+  "id": "0c603393-5001-4318-961b-da96b0846dd0",
+  "name": "Git自动同步",
+  "status": "active",
+  "createdAt": "2026-06-26T06:13:38.939Z",
+  "updatedAt": "2026-06-26T06:13:38.939Z",
+  "agents": [
+    {
+      "id": "agent_4zo5x3aj",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-06-26T06:13:38.939Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_l3avn4ne",
+    "title": "Git自动同步",
+    "createdAt": "2026-06-26T06:13:38.939Z",
+    "file": "summary_l3avn4ne.md"
+  },
+  "lastMessageCount": 14
+}

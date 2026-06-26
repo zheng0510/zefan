@@ -1,0 +1,25 @@
+{
+  "id": "195ef0aa-dcc0-4e47-99ad-74d3ad056932",
+  "name": "系统维护",
+  "status": "active",
+  "createdAt": "2026-06-26T04:14:07.540Z",
+  "updatedAt": "2026-06-26T04:14:07.540Z",
+  "agents": [
+    {
+      "id": "agent_r5xk8sxr",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-06-26T04:14:07.540Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_sl9dqsbs",
+    "title": "系统维护",
+    "createdAt": "2026-06-26T04:14:07.540Z",
+    "file": "summary_sl9dqsbs.md"
+  },
+  "lastMessageCount": 21
+}
