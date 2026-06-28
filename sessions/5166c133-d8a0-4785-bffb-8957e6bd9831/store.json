@@ -1,0 +1,25 @@
+{
+  "id": "5166c133-d8a0-4785-bffb-8957e6bd9831",
+  "name": "记忆维护",
+  "status": "active",
+  "createdAt": "2026-06-26T14:04:03.595Z",
+  "updatedAt": "2026-06-26T14:04:03.595Z",
+  "agents": [
+    {
+      "id": "agent_eek20w2s",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-06-26T14:04:03.595Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_xfh42e94",
+    "title": "记忆维护",
+    "createdAt": "2026-06-26T14:04:03.595Z",
+    "file": "summary_xfh42e94.md"
+  },
+  "lastMessageCount": 19
+}
